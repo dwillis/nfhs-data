@@ -3,6 +3,7 @@
 Structured data from the [National Federation of State High School Associations annual participation surveys](https://www.nfhs.org/sports-resource-content/high-school-participation-survey-archive/). The NFHS produces annual surveys measuring participation in high school sports in every state and the District of Columbia, including breakdowns of the number of schools and participants by sex. Each folder in this repository contains the source PDF and CSV datafiles of figures from the survey. Those CSV files include:
 
 * totals_{year}.csv - overall numbers of schools and participants by sport and sex, including adaptive sports
+* state_{year}.csv - overall numbers of participants by state and sex, including adaptive sports
 * boys_schools_{year}.csv - top 10 boys' sports by number of schools
 * boys_participants_{year}.csv - top 10 boys' sports by number of participants
 * girls_schools_{year}.csv - top 10 girls' sports by number of schools
